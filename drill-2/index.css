@@ -1,0 +1,65 @@
+body {
+    height: 600px;
+    width: 1000px;
+    margin: 10px auto;
+}
+
+.topSquare{
+    height: 30%;
+    width: 100%;
+    border: 3px solid black;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.purpleBlock{
+    height: 70%;
+    width: 30px;
+    background-color: blueviolet;
+    display: inline-block;
+    
+}
+
+.greenBlock{
+    height: 100%;
+    width: 300px;
+    background-color: green;
+    display: inline-block;
+    margin: 0 30px;
+}
+
+.blueCircle{
+    height: 100%;
+    width: 180px;
+    background-color: lightblue;
+    display: inline-block;
+    border-radius: 100%;
+}
+
+.middleSquare{
+    height: 30%;
+    width: 100%;
+    border: 3px dotted black;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 10px;
+}
+
+.yellowBlock{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(250, 210, 158);
+    box-shadow: 10px 5px 5px black;
+}
+
+.bottomSquare{
+    height: 30%;
+    width: 350px;
+    margin: 10px auto;
+    box-shadow: 10px 5px 5px grey;
+    border-top: 1px solid grey;
+    border-left: 1px solid grey;
+    padding: 44px;
+    box-sizing: border-box;
+    text-align: center;
+}
